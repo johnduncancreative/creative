@@ -1,0 +1,38 @@
+.row {
+	max-width:62.5rem;
+}
+a {
+	color:#2ba6cb;
+}
+.svg-logo {
+	max-width:333px;
+	margin:20px 0px;
+}
+.st0 {
+	fill:#231F20;
+}
+.st1 {
+	fill:#F38B00;
+}
+.st2 {
+	fill:#FFFFFF;
+}
+.home-image {
+	margin-bottom:20px;
+}
+.cute-ul {
+	margin:0px 0px 10px;
+	padding:0px;
+	list-style:none;
+}
+.cute-ul li {
+	padding:10px 0px;
+}
+
+/* FONTS */
+@media print, screen and (min-width: 40em) {
+	h1 {
+		font-size: 2.125rem;
+	}
+}
+/* END FONTS */
