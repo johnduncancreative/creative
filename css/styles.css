@@ -22,10 +22,7 @@ a:hover {
 }
 .cute-ul {
 	margin:10px 20px 25px;
-	padding:0px;
-	list-style:none;
 	font-family: 'Glegoo', serif;
-	line-height: 0.75rem;
 }
 .cute-ul li {
 	padding:20px;
