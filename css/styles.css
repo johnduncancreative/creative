@@ -26,7 +26,7 @@ a:hover {
 	list-style:none;
 }
 .cute-ul li {
-	padding:0 20px 0;
+	padding:5px 20px 5px;
 }
 .footer {
 	margin-top:60px;
@@ -36,7 +36,6 @@ a:hover {
 }
 
 /* FONTS */
-@media print, screen and (min-width: 40em) {
 	h1 {
 		font-family: 'Glegoo', serif;
 		font-weight: 700;
@@ -57,5 +56,4 @@ a:hover {
 		font-weight: 400;
 		font-size: 1rem;
 	}
-}
 /* END FONTS */
