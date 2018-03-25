@@ -1,9 +1,6 @@
 .row {
 	max-width:62.5rem;
 }
-a {
-	color:#f38b00;
-}
 a:link, a:visited, a:active {
     color: #f38b00;
     transition: all 0.25s ease;
@@ -13,7 +10,7 @@ a:link, a:visited, a:active {
     -o-transition: all 0.25s ease;
 }
 a:hover {
-    color: #d17700;
+    color: #00A2FF;
     text-decoration: underline;
 }
 .svg-logo {
