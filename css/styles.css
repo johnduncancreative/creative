@@ -27,6 +27,13 @@ a:hover {
 	max-width:333px;
 	margin:20px 0px;
 }
+.hero {
+	width: 100%;
+	text-align: center;
+}
+.hero img {
+	width: 100%;
+}
 .home-image {
 	margin-bottom:25px;
 }
