@@ -2,9 +2,8 @@
 	max-width:62.5rem;
 }
 .topbar {
-	margin-bottom:30px;
 	width:100%;
-	height: 8px;
+	height: 6px;
 	background-color:#f38b00;
 }
 .avatar {
@@ -24,7 +23,7 @@ a:hover {
     text-decoration: underline;
 }
 .svg-logo {
-	max-width:333px;
+	text-align: right;
 	margin:20px 0px;
 }
 .hero {
@@ -55,23 +54,54 @@ ul {
 	list-style: none;
 }
 /* FONTS */
+/*Trade Gothic Next LT Pro Bold
+
+font-family: trade-gothic-next, sans-serif;
+font-weight: 700;
+font-style: normal;
+
+Trade Gothic Next LT Pro Regular
+font-family: trade-gothic-next, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+Trade Gothic Next LT Pro Bold Compressed
+font-family: trade-gothic-next-compressed, sans-serif;
+font-weight: 700;
+font-style: normal;
+
+Trade Gothic Next LT Pro Heavy Condensed
+font-family: trade-gothic-next-condensed, sans-serif;
+font-weight: 800;
+font-style: normal;
+
+font-family: trade-gothic-next-condensed, sans-serif;
+font-weight: 700;
+font-style: normal;
+*/
+
 	h1 {
 		font-family: 'Glegoo', serif;
-		font-weight: 700;
-		font-size: 3rem;
+font-weight: 700;
+		font-style: normal;
+		letter-spacing: 0.25px;
+		font-size: 2.25rem;
 		line-height: 3rem;
-		margin-top: 1rem;
-		margin-bottom: 1rem;
+		margin-top: .75rem;
+		color: #231f20;
+
 	}
 	h2 {
 		font-family: 'Glegoo', serif;
-		font-weight: 700;
-		font-size: 2.0rem;
+font-weight: 700;
+		font-size: 1.25rem;
+		color: #231f20;
 	}
 	h3 {
 		font-family: 'Glegoo', serif;
 		font-weight: 700;
 		font-size: 1.875rem;
+		color: #231f20;
 	}
 	h5 {
 		font-family: 'Glegoo', serif;
@@ -84,6 +114,6 @@ ul {
 	p {
 		font-family: 'Glegoo', serif;
 		font-weight: 400;
-		font-size: 1rem;
+		font-size: 1.15rem;
 	}
 /* END FONTS */
